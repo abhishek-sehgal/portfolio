@@ -1,5 +1,17 @@
 # Applied ML and DSP Engineer
 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&color=2bbc8a)
+
+
+![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=PyTorch&logoColor=red&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=Keras&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SKLearn-informational?style=flat&logo=SciKit-Learn&color=2bbc8a)
+
 ## Education
 
 - **Ph.D., Electrical Engineering**, The University of Texas at Dallas (_May 2019_)
