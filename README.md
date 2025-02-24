@@ -2,11 +2,11 @@
 
 ## Education
 
-- Ph.D., Electrical Engineering | The University of Texas at Dallas (_May 2019_)
+- **Ph.D., Electrical Engineering**, The University of Texas at Dallas (_May 2019_)
   - Dissertation: Guidelines and Benchmarks for Deployment of Deep Learning Models on Smartphones as Real-Time Apps
-- M.S. (Thesis), Electrical Engineering | The University of Texas at Dallas (_Dec 2015_)
+- **M.S. (Thesis), Electrical Engineering**, The University of Texas at Dallas (_Dec 2015_)
   - Thesis: Real-time implementation of noise classifiers on smartphones for hearing studies
-- B.E., Instrumentation Technology | Visvesvaraya Technological University (_May 2012_)  
+- **B.E., Instrumentation Technology**, Visvesvaraya Technological University (_May 2012_)  
 
 
 ## Work Experience
