@@ -6,9 +6,11 @@
 - IDE: Jupyter, Android Studio, Xcode
 
 ## Education
-- Ph.D., Electrical Engineering | The University of Texas at Dallas (_May 2019_)  
+
+- Ph.D., Electrical Engineering | The University of Texas at Dallas (_May 2019_)
 - M.S. (Thesis), Electrical Engineering | The University of Texas at Dallas (_Dec 2015_)  
 - B.E., Instrumentation Technology | Visvesvaraya Technological University (_May 2012_)  
+
 
 ## Work Experience
 **Staff Engineer, Research II @ Samsung Research America, Plano, TX (_Aug 2018 - Present_)**
