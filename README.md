@@ -4,13 +4,20 @@
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&color=2bbc8a)
 
 
-![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=PyTorch&logoColor=red&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=Keras&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SKLearn-informational?style=flat&logo=SciKit-Learn&color=2bbc8a)
+![](https://img.shields.io/badge/MLModule-TensorFlow-informational?style=flat&logo=TensorFlow&color=2bbc8a)
+![](https://img.shields.io/badge/MLModule-PyTorch-informational?style=flat&logo=PyTorch&logoColor=red&color=2bbc8a)
+![](https://img.shields.io/badge/MLModule-Keras-informational?style=flat&logo=Keras&color=2bbc8a)
+![](https://img.shields.io/badge/MLModule-SKLearn-informational?style=flat&logo=SciKit-Learn&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-Ollama-informational?style=flat&logo=Ollama&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-LangChain-informational?style=flat&logo=LangChain&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=Jupyter&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AndroidStudio-informational?style=flat&logo=androidstudio&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-XCode-informational?style=flat&logo=xcode&color=2bbc8a)
 
 ## Education
 
@@ -57,7 +64,8 @@ techniques
 - Conducted Knowledge Transfer sessions, wrote documentation and provided acceptance testing & support
 - Successfully achieved all project objectives within the stipulated timeline
 
-## Technical Skills
-- Languages: Python, MATLAB, C, C++
-- ML Modules: TensorFlow, Keras, Pytorch, Scikit-Learn, Ollama, LangChain
-- IDE: Jupyter, Android Studio, Xcode
+## Publications
+
+## Patents
+
+
