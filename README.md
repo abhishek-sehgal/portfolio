@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Applied ML and DSP Engineer"
+permalink: /
 ---
 
 # Applied ML and DSP Engineer
