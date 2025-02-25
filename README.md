@@ -1,9 +1,3 @@
----
-layout: default
-title: "Applied ML and DSP Engineer"
-permalink: /
----
-
 # Applied ML and DSP Engineer
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
