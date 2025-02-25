@@ -3,3 +3,10 @@ title: Abhishek Sehgal
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
+
+# Add navigation links
+navigation:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications/
