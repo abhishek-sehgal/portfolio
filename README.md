@@ -30,6 +30,12 @@
 
 ### Staff Engineer, Research II @ Samsung Research America, Plano, TX (_Aug 2018 - Present_)
 
+#### Projects
+
+- (_Aug 2018 - Jan 2019_) Intelligent Wi-Fi Connectivity using Q-Learning
+- (_Feb 2019 - Feb 2020_) Millimeter Wave Radar based User Authentication, Liveliness Detection and Gesture Recognition
+- (_Mar 2020 - Jun 2021_) Adaptive Target-Wake Time for battery preservation using Network Service Detection
+
 - Engaged in ongoing research and development of innovative solutions focused on Wireless Communication and Sensing-based Signal Processing and Machine Learning.
 - Led a team to develop adaptive Multi-Link Operation (MLO) techniques, resulting in a 14% reduction in Wi-Fi power consumption on the Samsung Galaxy S24.
 - Engineered adaptive Target Wake Time (TWT) power-saving strategies, achieving a 13% reduction in Wi-Fi power consumption on the Samsung Galaxy S22.
